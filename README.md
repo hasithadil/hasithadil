@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hasitha Dilshan</h1>
 <h3 align="center">Coding Creator: Building Tomorrow, Today</h3>
 
+<!--
 <h3 align="center">
 <img width="50%" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="animatedgif_codeboy">
 </h3>
+-->
 
 ---
 
